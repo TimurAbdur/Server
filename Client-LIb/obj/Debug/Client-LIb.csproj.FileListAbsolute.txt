@@ -1,0 +1,6 @@
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\bin\Debug\Client-LIb.dll
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\bin\Debug\Client-LIb.pdb
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\obj\Debug\Client-LIb.csproj.AssemblyReference.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\obj\Debug\Client-LIb.csproj.CoreCompileInputs.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\obj\Debug\Client-LIb.dll
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-LIb\obj\Debug\Client-LIb.pdb

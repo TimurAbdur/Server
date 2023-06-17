@@ -1,0 +1,11 @@
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\bin\Debug\Client-APP.exe.config
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\bin\Debug\Client-APP.exe
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\bin\Debug\Client-APP.pdb
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\bin\Debug\Client-LIb.dll
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\bin\Debug\Client-LIb.pdb
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.csproj.AssemblyReference.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.csproj.SuggestedBindingRedirects.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.csproj.CoreCompileInputs.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.csproj.CopyComplete
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.exe
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Client-APP\obj\Debug\Client-APP.pdb

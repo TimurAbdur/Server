@@ -1,0 +1,6 @@
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\bin\Debug\Server-Lib.dll
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\bin\Debug\Server-Lib.pdb
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\obj\Debug\Server-Lib.csproj.AssemblyReference.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\obj\Debug\Server-Lib.csproj.CoreCompileInputs.cache
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\obj\Debug\Server-Lib.dll
+D:\ИС-22 экзамен\Клиент-Сервер (марафон)\Server-Lib\obj\Debug\Server-Lib.pdb
